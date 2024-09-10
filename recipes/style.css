@@ -1,0 +1,15 @@
+body{
+    margin: 0 0 0 20px;
+    padding: 0 0 0 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    border: 10px solid burlywood;
+    border-radius: 10px;
+}
+h1{
+    text-align: center;
+}
+img{
+    height: 500px;
+    
+}
